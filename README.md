@@ -16,4 +16,4 @@ You can run it by simply use your local live server with your code editor or by 
 #### !This app has been created for educational purposes for Frontend Mentor
 
 ## Links to project 🔗
-Blue (classic) version -> https://easybank-landing-page-caster.netlify.app </br>
+> https://easybank-landing-page-caster.netlify.app
